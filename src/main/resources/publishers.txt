@@ -1,0 +1,237 @@
+Oprindelig publisher værdi	normaliseres til	channel_name ID	Radio eller TV?	note
+04.35	DR Klassisk	drpk	r	
+05.45	Kalundborg Langbølgesender	drkallang	r	
+16.5	DR P4 Radio Syd	drp4s	r	
+23.00	DR Klassisk	drpk	r	
+A	DR TV	dr1	t	
+BORNHOLMS RADIO	Bornholms Radio	drp4blm	r	
+DA	DR TV	dr1	t	
+DANMARK RADIO TV	DR TV	dr1	t	
+DANMARKS RADIO	DR TV	dr1	t	
+DANMARKS RADIO%	DR TV	dr1	t	
+DANMARKS RADIO-1 TV	DR TV	dr1	t	
+DANMARKS RADIO -TV	DR TV	dr1	t	
+DANMARKS RADIO - TV	DR TV	dr1	t	
+DANMARKS RADIO • TV	DR TV	dr1	t	
+DANMARKS RADIO-TV	DR TV	dr1	t	
+DANMARKS RADIO- TV	DR TV	dr1	t	
+DANMARKS RADIO - TV FJERNSYNSPROGRAM 7. maj -13. maj 1990 -19. uge	DR TV	dr1	t	
+DANMARKS RAOIO	DR TV	dr1	t	
+DANMRKS RADIO-TV	DR TV	dr1	t	
+DPR2	DR P2	drp2	r	
+DR1	DR 1	dr1	t	
+DR2	DR 2	dr2	t	
+DR5MELLMBOLGE	DR P5 Mellembølge	drp5mellem	r	
+DRKLASSISK	DR Klassisk	drpk	r	
+DR KLASSISK	DR Klassisk	drpk	r	
+DRKLASSISK`	DR Klassisk	drpk	r	
+DRP1	DR P1	drp1	r	
+DRP2	DR P2	drp2	r	
+DRP21	DR P2	drp2	r	
+DRP2 DR	DR P2	drp2	r	
+DRP2 Musik	DR P2 Musik	drp2	r	
+DRP2MUSIK	DR P2 Musik	drp2	r	
+DRP2 MUSIK	DR P2 Musik	drp2	r	
+DRP2 MUSIK &amp; KULTUR	DR P2 Musik & Kultur	drp2	r	
+DRP2 MUSIK&amp;KULTUR	DR P2 Musik & Kultur	drp2	r	
+DRP2MUSIK&amp;KULTUR	DR P2 Musik & Kultur	drp2	r	
+DRP3	DR P3	drp3	r	
+DRP4	DR P4	drp4	r	
+DRP4 æSTJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 åSTJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 Ã˜STJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 BORKHOLMS RADIO	DR P4 Bornholms Radio	drp4blm	r	
+DRP4 BORNAHOLMS RADIO	DR P4 Bornholms Radio	drp4blm	r	
+DRP4 BORNHOLMS RAD1O	DR P4 Bornholms Radio	drp4blm	r	
+DRP4 BORNHOLMS RADI	DR P4 Bornholms Radio	drp4blm	r	
+DRP4 BORNHOLMS RADIO	DR P4 Bornholms Radio	drp4blm	r	
+DRP4 BORNHOLMS RADIO DR	DR P4 Bornholms Radio	drp4blm	r	
+DRP4 DR KAMAL 94	DR P4 Kanal 94	drp4k94	r	
+DRP4 GåS RADIO	DR P3	drp3	r	A-2005-11-04-P-0386_021.xml -> DR P4 Østjyllands radio
+DRP4 KåBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KÃ˜BENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KæBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KAHAL 94	DR P4 Kanal 94	drp4k94	r	
+DRP4 KAMAL 94	DR P4 Kanal 94	drp4k94	r	
+DRP4 KANAL	DR P4 Kanal 94	drp4k94	r	
+DRP4 KANAL 94	DR P4 Kanal 94	drp4k94	r	
+DRP4 KANAL 96	Bornholms Radio	drp4blm	r	
+DRP4 KBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KBøENHANNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KBøENLLANVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 K?ENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBEMHAVMS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBENHAVNS RAD1O	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBENHAVNS RADI	DR P4 Københavns Radio	drp4k	r	
+DRP4 KOBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KøBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBENHAVNS RADIO0	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBENHAVNS RADIO16	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØBENMAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KØENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 KÙ‚ENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 MIDT&amp;VIST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 MøRATYJLLANOS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 MøROTJYLLANOS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NDORDNLANDS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NODJYLLANDS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDIOYJLLANS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDIYLLANDS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANDS RAD1I	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANDS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANDS RADIO1	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANDS RADIOER	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANDS RADIOR	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANDS RADOI	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 NORDJYLLANOS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+DRP4 ØBENHAVNS RADIO	DR P4 Københavns Radio	drp4k	r	
+DRP4 ØSTJYLLANDS RAD1O	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 OSTJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 Østjyllands Radio	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 ØstjyllandS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 ØSTJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 øSTJYLLANOS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 øSTYJLLANOS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 øSTYJLLANOS RADIOI	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 RAD1O M1DT&amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO FY	DR P4 Radio Fyn	drp4f	r	
+DRP4 RADIO fyn	DR P4 Radio Fyn	drp4f	r	
+DRP4 RADIO FYn	DR P4 Radio Fyn	drp4f	r	
+DR P4 RADIO FYN	DR P4 Radio Fyn	drp4f	r	
+DRP4 RADIO FYN	DR P4 Radio Fyn	drp4f	r	
+DRP4 RADIO MEDT VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDI &amp; VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDI&amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT&amp;amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO Midt&amp;Vest	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT &amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT &amp; VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT&amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT&amp; VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDTamp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT&amp;VEST2004	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT&amp;VESTDRP4	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIDT&amp;VESTDRP4 RADIO MIDT&amp;VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIST &amp; VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO MIST &amp; VESTr	DR P4 Radio Midt & Vest	drp4mv	r	
+DRP4 RADIO SY	DR P4 Radio Syd	drp4s	r	
+DRP4 RADIOSYD	DR P4 Radio Syd	drp4s	r	
+DRP4 RADIO SYD	DR P4 Radio Syd	drp4s	r	
+DRP4 RADIO SYD.	DR P4 Radio Syd	drp4s	r	
+DRP4 RADIO SYD\	DR P4 Radio Syd	drp4s	r	
+DRP4 RADIO SYD0	DR P4 Radio Syd	drp4s	r	
+DRP4 RADIO SYN	DR P4 Radio Syd	drp4s	r	
+DRP4 RAOIO SYD	DR P4 Radio Syd	drp4s	r	
+DRP4 REG1ONALEN	DR P4 Regionalen	drp4regio	r	
+DRP4 REGIONALEN	DR P4 Regionalen	drp4regio	r	
+DRP4 REGiøNALEN	DR P4 Regionalen	drp4regio	r	
+DRP4 REGIONALLN	DR P4 Regionalen	drp4regio	r	
+DR P4 REGLONALEN	DR P4 Regionalen	drp4regio	r	
+DR P4 REGLONALET	DR P4 Regionalen	drp4regio	r	
+DRP4 REGONALEN	DR P4 Regionalen	drp4regio	r	
+DRP4 REGONALLN	DR P4 Regionalen	drp4regio	r	
+DRP4 REGRONALEM	DR P4 Regionalen	drp4regio	r	
+DRP4 REGRONALEN	DR P4 Regionalen	drp4regio	r	
+DRP4 STJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP4 Ù“TJYLLANDS RADIO	DR P4 Østjyllands Radio	drp4o	r	
+DRP5	DR P5 Mellembølge	drp5mellem	r	
+DRP5 LANGBØLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5Mallemb??	DR P5 Mellembølge	drp5mellem	r	
+DRP5Mallembølge	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMBæLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMBDRPØLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5MELLEMBLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMBLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5MELLEMBOLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMBOLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 Mellembølge	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMBøLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5MELLEMBØLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMBØLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMEOLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP5 MELLEMØLGE	DR P5 Mellembølge	drp5mellem	r	
+DRP6	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGBæLGE	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGB?GE	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGBLGE	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGBØLEG	DR P6 Langbølge	drp6lang	r	
+DRP6LANGBOLGE	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGBOLGE	DR P6 Langbølge	drp6lang	r	
+DRP6 Langbølge	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGBøLGE	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGBØLGE	DR P6 Langbølge	drp6lang	r	
+DRP6 LANGØLGE	DR P6 Langbølge	drp6lang	r	
+DRP6mellembolge	DR P5 Mellembølge	drp5mellem	r	
+DRP6 Mellembølge	DR P5 Mellembølge	drp5mellem	r	
+DRP6 MELLEMBØLGE	DR P6 Mellembølge	drp6mellem	r	
+DRP7	DR P7	drp7	r	
+DRPKLASSISK	DR Klassisk	drpk	r	
+DR TV	DR TV	dr1	t	
+Fjernsynet	DR TV	dr1	t	
+HADERSLEV (04) 53 05 11	TV-Syd Haderslev	drtvsyd	t	
+ï»¿DR TV	DR TV	dr1	t	
+KALUNDBORG LAN6BØLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANBØLLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBLLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBØLGESBJDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBØLGESeCER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBØLGESEJDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBOLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG LANGBØLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KALUNDBORG MELLANGBØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEBØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBØLGE	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBØLGEBENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEM BØLGES BOER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBØLGESEMDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBOLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEM BOLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEM BOL GESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+Kalundborg Mellembølgesender	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBøLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG M ELLEM BØ LGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEM BØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBØL GESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBØLGESØNDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMBON GESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMEØLGENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLEMGBØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLENBØLGESENDER	DR P4 Kanal 94	drp4k94	r	
+KALUNDBORG MELLMBØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLOMBØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDBORG MELLSØLGESMBR	Kalundborg Mellembølgesender	drkalmellem	r	
+KALUNDERBORG MELLEMBØLGESENDER	Nordjyllands Radio	drp4nj	r	
+KALUTÆJBORG LANGBØLGESENDER	Kalundborg Langbølgesender	drkallang	r	
+KANAL 94	DR P4 Kanal 94	drp4k94	r	
+KBENHAVNS RADIO	Københavns Radio	drp4k	r	
+KØBENHAVNS RADIO	Københavns Radio	drp4k	r	
+LANGBLGE	DR P6 Langbølge	drp6lang	r	
+LANGBOLGE	DR P6 Langbølge	drp6lang	r	
+LANGBØLGE	DR P6 Langbølge	drp6lang	r	
+MELLEMBØLGE	DR P5 Mellembølge	drp5mellem	r	
+MELLEM BØLGESENDER	Kalundborg Mellembølgesender	drkalmellem	r	
+NDORDNLANDS RADIO	Nordjyllands Radio	drp4nj	r	
+NORDJYLLANDS RADIO	Nordjyllands Radio	drp4nj	r	
+ØSTJYLLANDS RADIO	Østjyllands Radio	drp4o	r	
+P4 BORNHOLMS RADIO	DR P4 Bornholms Radio	drp4blm	r	
+P4 NORDJYLLANDS RADIO	DR P4 Nordjyllands Radio	drp4nj	r	
+P4 RADIO MIDT &amp; VEST	DR P4 Radio Midt & Vest	drp4mv	r	
+P5 MELLEMBøLGE	DR P5 Mellembølge	drp5mellem	r	
+P5 MELLEMBØLGE	DR P5 Mellembølge	drp5mellem	r	
+RADIO FYN	Radio Fyn	drp4f	r	
+RADIO MIDT &amp; VEST	Radio Midt & Vest	drp4mv	r	
+RADIO SYD	Radio Syd	drp4s	r	
+REGIONALEN	DR P4 Regionalen	drp4regio	r	
+REGIONAL -TV	DR Regional TV	drregtv	t	
+REGIONAL-TV	DR Regional TV	drregtv	t	
+RP4 REGIONALEN	DR P4 Regionalen	drp4regio	r	
+TV-SYD HADERSLEV (04) 53 0511	TV-Syd Haderslev	drtvsyd	t	
+TV-SYD HADERSLEV (04) 53 05 11	TV-Syd Haderslev	drtvsyd	t	
+TV-SYD HADERSLEV(04)53 05 11	TV-Syd Haderslev	drtvsyd	t	
+TV-SYD HADERSLEV 104) 53 05 11	TV-Syd Haderslev	drtvsyd	t	
