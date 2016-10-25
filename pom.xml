@@ -34,7 +34,11 @@
   </repositories>
 
   <dependencies>
-    
+    <dependency>
+        <groupId>dk.statsbiblioteket.sbutil</groupId>
+        <artifactId>sbutil-common</artifactId>
+        <version>0.5.34</version>
+    </dependency>
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
