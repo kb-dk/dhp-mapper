@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PBCoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html PBcore.xsd">
+	<pbcoreAssetType source="PBCore AssetType Picklist">Program</pbcoreAssetType>
+		<pbcoreIdentifier>
+			<identifier>ID:A-5432-11-11-P-0000_006</identifier>
+			<identifierSource>Statsbiblioteket. De hvide programmer ekstra</identifierSource>
+		</pbcoreIdentifier>
+		<pbcoreTitle>
+			<title>program sendt på flere radio kanaler</title>
+			<titleType source="PBCore TitleType Picklist">Program</titleType>
+		</pbcoreTitle>
+		<pbcoreDescription>
+			<description>beskrivelse linje1
+beskrivelse linje2.</description>
+			<descriptionType source="PBCore DescriptionType Picklist">Listing Services</descriptionType>
+		</pbcoreDescription>
+			<pbcoreRelation>
+			<relationType source="PBCore relationType Picklist">Is Part Of</relationType>
+				<relationIdentifier>A-5432-11-11-P-0000_006</relationIdentifier>
+			</pbcoreRelation>
+		<pbcorePublisher>
+			<publisher>DRP2 MUSIK</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 BORNHOLMS RADIO</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 KANAL 94</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 RADIO MIDT&amp;VEST</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 ØSTJYLLANDS RADIO</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP1</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 RADIO FYN</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 REGIONALEN</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 KØBENHAVNS RADIO</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcorePublisher>
+			<publisher>DRP4 NORDJYLLANDS RADIO</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcoreInstantiation>
+			<pbcoreFormatID>
+			<formatIdentifier>ID:A-5432-11-11-P-0000_006</formatIdentifier>
+			<formatIdentifierSource>Statsbiblioteket. De hvide programmer ekstra</formatIdentifierSource>
+		</pbcoreFormatID>
+		<formatLocation/>
+		<pbcoreDateAvailable>
+			<dateAvailableStart>1999-11-03T00:30</dateAvailableStart>
+			<dateAvailableEnd>1999-11-03T01:20</dateAvailableEnd>
+		</pbcoreDateAvailable>
+		</pbcoreInstantiation>
+		<pbcoreInstantiation>
+		<pbcoreFormatID>
+			<formatIdentifier>1999.08.30-2000.01.30_437.tiff</formatIdentifier>
+			<formatIdentifierSource>Statsbiblioteket. De hvide programmer ekstra</formatIdentifierSource>
+		</pbcoreFormatID>
+		<formatDigital source="http://www.iana.org/assignments/media-types">image / tiff</formatDigital>
+			<formatLocation>1999.08.30-2000.01.30_437.tif</formatLocation>
+			<pbcoreAnnotation>
+				<annotation>Simultaneous Broadcast</annotation>
+			</pbcoreAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreExtension>
+			<extension>programlistingposition:194.0x2270.0+629.0+2439.0 mm</extension>
+			<extensionAuthorityUsed>Statsbiblioteket. De hvide programmer ekstra</extensionAuthorityUsed>
+		</pbcoreExtension>
+	</PBCoreDescriptionDocument>

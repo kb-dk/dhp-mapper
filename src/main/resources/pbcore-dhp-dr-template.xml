@@ -1,0 +1,45 @@
+<PBCoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+    <pbcoreIdentifier>
+        <identifier>[Source id]</identifier>
+        <identifierSource>De hvide programmer ekstra id</identifierSource>
+    </pbcoreIdentifier>
+    <pbcoreIdentifier>
+        <identifier>[Billede id]</identifier>
+        <identifierSource>De hvide programmer ekstra billed id</identifierSource>
+    </pbcoreIdentifier>
+    <pbcoreTitle>
+        <title>[program title]</title>
+        <titleType>title</titleType>
+    </pbcoreTitle>
+    <pbcoreDescription>
+        <description>[description placeholder]</description>
+        <descriptionType>langomtale1</descriptionType>
+    </pbcoreDescription>
+    <pbcorePublisher>
+        <publisher>[normalized publisher name]</publisher>
+        <publisherRole>kanalnavn</publisherRole>
+    </pbcorePublisher>
+    <pbcorePublisher>
+        <publisher>[normalized channel id]</publisher>
+        <publisherRole>channel_name</publisherRole>
+    </pbcorePublisher>
+    <pbcoreInstantiation>
+        <formatLocation>Statsbiblioteket; Radio/TV-samlingen</formatLocation>
+        <formatMediaType>[media type]</formatMediaType>
+        <pbcoreDateAvailable>
+            <dateAvailableStart>[program start iso-format]</dateAvailableStart>
+            <dateAvailableEnd>[program slut iso-format]</dateAvailableEnd>
+        </pbcoreDateAvailable>
+        <pbcoreFormatID>
+            <formatIdentifier>[Billede id]</formatIdentifier>
+            <formatIdentifierSource>De hvide programmer ekstra id</formatIdentifierSource>
+        </pbcoreFormatID>
+        <pbcoreAnnotation>
+            <annotation>[annotation]</annotation>
+        </pbcoreAnnotation>
+    </pbcoreInstantiation>
+    <pbcoreExtension>
+       <extension>[extension]</extension>
+       <extensionAuthorityUsed>Statsbiblioteket. De hvide programmer ekstra</extensionAuthorityUsed>
+   </pbcoreExtension>
+</PBCoreDescriptionDocument>

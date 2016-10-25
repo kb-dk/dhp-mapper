@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PBCoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html PBcore.xsd">
+	<pbcoreAssetType source="PBCore AssetType Picklist">Program</pbcoreAssetType>
+		<pbcoreIdentifier>
+			<identifier>ID:A-1234-11-11-P-0000_009</identifier>
+			<identifierSource>Statsbiblioteket. De hvide programmer ekstra</identifierSource>
+		</pbcoreIdentifier>
+		<pbcoreTitle>
+			<title>program sendt på én tv kanal</title>
+			<titleType source="PBCore TitleType Picklist">Program</titleType>
+		</pbcoreTitle>
+		<pbcoreDescription>
+			<description>Multi
+			line 
+			desrciption field</description>
+			<descriptionType source="PBCore DescriptionType Picklist">Listing Services</descriptionType>
+		</pbcoreDescription>
+			<pbcoreRelation>
+			<relationIdentifier>A-1234-11-11-P-0000_009</relationIdentifier>
+			</pbcoreRelation>
+		<pbcorePublisher>
+			<publisher>DR2</publisher>
+			<publisherRole source="PBCore PublisherRole Picklist">Distributor</publisherRole>
+		</pbcorePublisher>
+		<pbcoreInstantiation>
+			<pbcoreFormatID>
+			<formatIdentifier>ID:A-1234-11-11-P-0000_009</formatIdentifier>
+			<formatIdentifierSource>Statsbiblioteket. De hvide programmer ekstra</formatIdentifierSource>
+		</pbcoreFormatID>
+		<formatLocation/>
+		<pbcoreDateAvailable>
+			<dateAvailableStart>2004-07-15T08:07</dateAvailableStart>
+			<dateAvailableEnd>2004-07-15T08:30</dateAvailableEnd>
+		</pbcoreDateAvailable>
+		</pbcoreInstantiation>
+		<pbcoreInstantiation>
+		<pbcoreFormatID>
+			<formatIdentifier>2004.05.24-2004.09.12_419.tiff</formatIdentifier>
+			<formatIdentifierSource>Statsbiblioteket. De hvide programmer ekstra</formatIdentifierSource>
+		</pbcoreFormatID>
+		<formatDigital source="http://www.iana.org/assignments/media-types">image / tiff</formatDigital>
+			<formatLocation>2004.05.24-2004.09.12_419.tif</formatLocation>
+			<pbcoreAnnotation>
+				<annotation></annotation>
+			</pbcoreAnnotation>
+		</pbcoreInstantiation>
+		<pbcoreExtension>
+			<extension>programlistingposition:149.0x1218.0+633.0+1761.0 mm</extension>
+			<extensionAuthorityUsed>Statsbiblioteket. De hvide programmer ekstra</extensionAuthorityUsed>
+		</pbcoreExtension>
+	</PBCoreDescriptionDocument>
